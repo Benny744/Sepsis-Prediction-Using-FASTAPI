@@ -3,7 +3,7 @@
 ---
 
 ## **Overview**  
-The **Sepsis Prediction System** is a machine learning-powered web application developed by **Andy Konney** as part of his final project for Azubi Africa. This innovative tool predicts the likelihood of sepsis in patients using clinical data, offering healthcare providers actionable insights to enable early intervention and improve patient outcomes.  
+The **Sepsis Prediction System** is a machine learning-powered web application developed by **Benjamin Agbleke** as part of his final project for Azubi Africa. This innovative tool predicts the likelihood of sepsis in patients using clinical data, offering healthcare providers actionable insights to enable early intervention and improve patient outcomes.  
 
 The application includes:  
 - A machine learning model trained on clinical data.  
